@@ -7,7 +7,8 @@ This is a fully responsive e-commerce shopping website project built using React
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- 
+  
+
 
 ## Demo
 
